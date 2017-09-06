@@ -1,4 +1,4 @@
-# FirebaseCloudMessagingSample-android
+# FirebaseCloudMessaging-Sample-android
 FirebaseCloudMessaging(FCM)サンプルアプリ
 
 ## Androidプロジェクトの実装方法
